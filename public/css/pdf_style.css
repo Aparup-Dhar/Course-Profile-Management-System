@@ -1,0 +1,30 @@
+body {
+background-color: white;
+margin-top:  0%;
+margin-bottom:  6%;
+margin-right:  5%;
+margin-left: 5%;
+}
+
+h1 {
+font-size: 18px;
+text-align: center;
+
+}
+
+.container{
+text-align: center;
+margin-top: -5%;
+}
+
+img{
+width: 27%;
+}
+
+table,td,tr {
+width: 100%;
+border-collapse: collapse;
+border: 1px solid;
+height: 25px;
+
+}
