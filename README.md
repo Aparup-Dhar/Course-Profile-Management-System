@@ -1,66 +1,79 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Title
+Course Profile Management System
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# Description
+A system for managing course profiles is necessary to streamline the organization and accessibility of vital academic information.<br>
+It centralizes course-related details, enabling quick access for students, faculty, and administrators.
 
-## About Laravel
+# Features
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+`▪ Authentication and Authorization`
+  
+`▪ Department Admin creation , update and delete`
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+`▪ Department creation , update and delete`
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+`▪ Course creation , update and delete`
 
-## Learning Laravel
+`▪ Program Outcome creation , update and delete`
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+`▪ Course Profile creation , update and delete`
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+# Technologies Used
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+# Entity Relationship Diagram (ERD)
+![ERD](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20134022.png)
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Screenshots
+#### Login-In Page
+![Login-In Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20132050.png)
+#### Root Admin Profile Page
+![Root Admin Profile Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20132212.png)
+#### Create Department Page
+![Create Department Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20132249.png)
+#### View Department Page
+![View Department Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20132313.png)
+#### Edit Department Page
+![Edit Department Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20132334.png)
+#### Create Admin Page
+![Create Admin Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20132839.png)
+#### View Admin Page
+![View Admin Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20132854.png)
+#### Edit Admin Page
+![Edit Admin Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20132912.png)
+#### Department Admin Profile Page
+![Department Admin Profile Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133137.png)
+#### Create Versions Page
+![Create Versions Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133155.png)
+#### View Versions Page
+![View Versions Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133206.png)
+#### Edit Versions Page
+![Edit Versions Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133224.png)
+#### Create Course Page
+![Create Course Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133317.png)
+#### View Course Page
+![View Course Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133455.png)
+#### Edit Course Page
+![Edit Course Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133507.png)
+#### Create Program Outcomes Page
+![Create Program Outcomes Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133603.png)
+#### View Program Outcomes Page
+![View Program Outcomes Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133620.png)
+#### Edit Program Outcomes Page
+![Edit Program Outcomes Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133628.png)
+#### Create Course Profile Page
+![Create Course Profile Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133831.png)
+![Create Course Profile Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133858.png)
+#### View Course Profile Page
+![View Course Profile Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20133911.png)
+#### Generated Course Profile PDF
+![Generated Course Profile PDF](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20134001.png)
+#### Edit Course Profile Page
+![Edit Course Profile Page](https://github.com/Aparup-Dhar/Course-Profile-Management-System/blob/b889900a5399bfdad8c44ffe5c7beead54f63164/screenshots/Screenshot%202024-11-11%20134021.png)
