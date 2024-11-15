@@ -2,7 +2,7 @@
 Course Profile Management System
 
 # Description
-A system for managing course profiles is necessary to streamline the organization and accessibility of vital academic information.<br>
+A system for managing course profiles is necessary to streamline the organization and accessibility of vital academic information.
 It centralizes course-related details, enabling quick access for students, faculty, and administrators.
 
 # Features
